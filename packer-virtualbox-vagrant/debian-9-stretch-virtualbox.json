@@ -6,7 +6,7 @@
     "ssh_port": "22",
     "ssh_wait_timeout": "10000s",
     "iso_url": "http://cdimage.debian.org/cdimage/daily-builds/daily/arch-latest/amd64/iso-cd/debian-testing-amd64-netinst.iso",
-    "iso_md5": "4595d7d9fb3fc4b6a56c7224c9fdd67e",
+    "iso_md5": "2c8c450f06eda3a266f968b9a84e6740",
     "vm_name": "debian-testing-stretch"
   },
   "builders": [
